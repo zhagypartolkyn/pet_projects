@@ -26,7 +26,7 @@ Custom implementations of:
 - Fibonacci sequence
 - Palindrome checker
 - Factorial
-- Prime numbers
+- Prime numbers, etc.
 
 ---
 
