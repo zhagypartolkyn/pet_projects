@@ -1,0 +1,8 @@
+# Blomi
+
+> Blomi is a cycle-aware monthly planner for women. It aligns tasks — meetings, workouts, travel, deep work — with the four phases of the menstrual cycle (menstruation, follicular, ovulation, luteal) so energy-intensive activities land on high-energy days.
+
+## Pages
+
+- [Home](/): What Blomi is and how cycle-aware planning works.
+- [Sign in / Sign up](/auth): Create an account or sign in.
